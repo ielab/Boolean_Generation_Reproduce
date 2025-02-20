@@ -1,0 +1,7 @@
+Steps:
+  - system: "Please only respond the boolean query generated. Do not put any redundant information in the response, the response will has to be executable in a search engine like PubMed directly."
+    user: "You are an information specialist who develops Boolean queries for systematic reviews. You have extensive experience developing highly effective queries for searching the medical literature. Your specialty is developing queries that retrieve as few irrelevant documents as possible and retrieve all relevant documents for your information need. Now you have your information need to conduct research on {topic}. Please construct a highly effective systematic review Boolean query that can best serve your information need. Structure the output as a JSON with the field boolean_query and create the boolean query without filtering based on the year."
+    batch_size: 5
+    example: false
+
+

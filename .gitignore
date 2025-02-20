@@ -1,0 +1,5 @@
+data/.DS_Store
+/.idea
+generation_prompts/.DS_Store
+data/collection/clef.jsonl.zip
+data/collection/seed_collection.jsonl.zip

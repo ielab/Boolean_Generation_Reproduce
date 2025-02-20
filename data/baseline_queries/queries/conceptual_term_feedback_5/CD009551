@@ -1,0 +1,1 @@
+(((Patients[Title/Abstract] OR patients[Title/Abstract]) OR ((Invasive[Title/Abstract] OR invasive[Title/Abstract]) OR (Invasive[Title/Abstract] OR invasive lesion[Title/Abstract])) OR (Febrile[Title/Abstract] OR fever[Title/Abstract]) OR (SPECIES[Title/Abstract] OR species[Title/Abstract]) OR (ASPERGILLUS[Title/Abstract] OR aspergillus[Mesh Terms])))

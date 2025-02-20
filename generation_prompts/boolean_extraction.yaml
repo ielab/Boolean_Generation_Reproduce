@@ -1,0 +1,5 @@
+Steps:
+  - system: "You are a helpful assistant specialized in extracting precise Boolean queries from text. Your task is to ensure correctness while preserving query syntax, including wildcard terms *, special characters \\, and field restrictions []."
+    user: "Extract only the Boolean query from the following text. Do not include explanations, reasoning, or any additional information. Ensure that:\n- Wildcard terms * remain untouched.\n- Special characters \\ used for escaping are preserved.\n- Field restrictions [] are retained.\n- Do not add or remove any terms in the Boolean query in the text.\n\nText:\n{response_content}"
+    batch_size: 1
+    example: false

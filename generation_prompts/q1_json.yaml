@@ -1,0 +1,5 @@
+Steps:
+  - system: "Please only respond the boolean query generated. Do not put any redundant information in the response, the response will has to be executable in a search engine like PubMed directly."
+    user: "For a systematic review titled {topic}, can you generate a systematic review Boolean query to find all included studies on PubMed for the review topic? Structure the output as a JSON with the field boolean_query and create the boolean query without filtering based on the year."
+    batch_size: 5
+    example: false

@@ -1,0 +1,7 @@
+Steps:
+  - system: "Please only respond the boolean query generated. Do not put any redundant information in the response, the response will has to be executable in a search engine like PubMed directly."
+    user: 'For a systematic review seed Boolean query: "{boolean_query}", This query retrieves too many irrelevant documents and too few relevant documents about the information need: “{topic}”, Please correct this query so that it can retrieve fewer irrelevant documents and more relevant documents.'
+    batch_size: 5
+    example: false
+
+
