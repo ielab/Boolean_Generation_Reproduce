@@ -5,7 +5,6 @@ from openai import OpenAI
 import os
 from mistralai import Mistral
 import time
-import re
 import json
 from pydantic import BaseModel
 
