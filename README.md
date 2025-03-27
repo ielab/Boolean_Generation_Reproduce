@@ -46,7 +46,9 @@ python3 eval_all.py \
 
 ---
 
-## Patch of Wrong Results from Submitted Paper
+## Patch of Incompleted Results from Submitted Paper
+
+Sorry that in the submitted paper, we have some incompleted results (even though in description, we missed in the original tables). Here are the patch for the incompleted results.
 
 ### Table 2
 
