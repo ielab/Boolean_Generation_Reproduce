@@ -44,6 +44,22 @@ python3 eval_all.py \
 
 
 
+---
+
+## Patch of Wrong Results from Submitted Paper
+
+### Table 2
+
+<img src="patch/t2.png" alt="Table 2"></img>
+
+### Table 3
+<img src="patch/t3.png" alt="Table 3"></img>
+
+### Table 4
+<img src="patch/t4.png" alt="Table 4"></img>
+
+
+
 
 ---
 # Result Comparison to Moritz et al.
@@ -84,4 +100,9 @@ Table for Recall
 
 
 ## Seed Collection
+
+
+Coming soon
+
+
 
