@@ -17,6 +17,8 @@ Boolean Query Generation Reproduce
 
 ## 2. Formulation or Refinement of Boolean Queries (q1-q7)
 
+📌 Note: In the paper, we used P1 to Pn to represent different prompts. In this script, we use q1 to qn, which directly correspond to P1–Pn.
+
 Below is the script that runs the reproduction of the Boolean Query Formulation/Refinement Prompts
     
 ```bash
